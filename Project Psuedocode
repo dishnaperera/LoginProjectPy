@@ -1,0 +1,3 @@
+CurrentAccounts = Read(accounts.txt)
+
+accounts =
