@@ -19,10 +19,10 @@ def get_password(type, l):
     symbolsPw = string.digits
     lettersPw = string.ascii
 
-    if(type == a);
+    if(type == a):
         result_pw = random.choice(numbersPw)
 
-    if
+
 
 # getting user to choose self-made or generated Password.
 selfOrAutoPw = input("Please enter a selection for your password \n "
